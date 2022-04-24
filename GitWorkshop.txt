@@ -1,1 +1,2 @@
 This is for the second workshop
+Now i added a change, because i forgot the right commit message
